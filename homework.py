@@ -1,4 +1,11 @@
-myage = 14
-dadage = 63
-myage10year = myage + 10
-print(dadage / myage10year )
+my_age = 14
+dad_age = 64
+mom_age = 54
+grandma_age = 85
+
+
+
+my_age = my_age + 20
+dad_age = dad_age + 20
+mom_age = mom_age + 20
+grandma_age = grandma_age + 20
